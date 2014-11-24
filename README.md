@@ -1,6 +1,4 @@
 Hello-World
 ===========
 
-WEQRQWERJQOWEIHRIQEHRNLANWRE
-
-Test 1
+Test 2
